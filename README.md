@@ -1,2 +1,2 @@
 # MyPortfolioProject
-.Net ile geliştirilmiş olan portfolyo uygulamasıdır
+.Net 6.0 ile geliştirilmiş olan portfolyo uygulamasıdır
