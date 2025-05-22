@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using MyPortfolioProject.DAL.Entities;
 using MyPortfolioUdemy.DAL.Entities;
 
 namespace MyPortfolioUdemy.DAL.Context
@@ -19,5 +20,6 @@ namespace MyPortfolioUdemy.DAL.Context
         public DbSet<Skill> Skills { get; set; }
         public DbSet<SocailMedia> SocailMedias { get; set; }
         public DbSet<Testimonial> Testimonials { get; set; }
+        public DbSet<ToDoList> ToDoLists { get; set; }
     }
 }
